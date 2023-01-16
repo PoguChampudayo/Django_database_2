@@ -1,0 +1,110 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэлл",
+      "pub_date": "2016-12-06"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Сияние",
+      "author": "Стивен Кинг",
+      "pub_date": "2019-09-10"
+    }
+  },
+      {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Азазель",
+      "author": "Б. Акунин",
+      "pub_date": "2020-09-21"
+    }
+  },
+        {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Книга № 5",
+      "author": "Лариса Нуретдинова",
+      "pub_date": "2020-09-21"
+    }
+  },
+      {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Всё пропало, шеф",
+      "author": "Кот Леопольд",
+      "pub_date": "2019-09-10"
+    }
+  },
+      {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Свистать всех наверх!",
+      "author": "Капитан Врунгель",
+      "pub_date": "2019-09-10"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Страдания Изауры",
+      "author": "Жора Боливийский",
+      "pub_date": "2016-12-06"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "Скрипач на крыше",
+      "author": "Николло Паганини",
+      "pub_date": "2018-02-27"
+    }
+  },
+      {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "name": "Ноктюрн",
+      "author": "Изабелла Мастрояни",
+      "pub_date": "2021-04-21"
+    }
+  },
+      {
+      "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "name": "Слушай тишину",
+      "author": "Василий Потёмкин",
+      "pub_date": "2021-04-21"
+    }
+  },
+        {
+      "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "name": "Служили два товарища",
+      "author": "Иван Тимофеев",
+      "pub_date": "2021-04-21"
+    }
+  }
+]
